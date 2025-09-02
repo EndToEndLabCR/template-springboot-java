@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>com.company.template</groupId>
-    <artifactId>springboot-clean-architecture-template</artifactId>
+    <artifactId>template-springboot-java</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>Spring Boot Clean Architecture Template</name>
     <description>Spring Boot template project implementing Hexagonal Architecture with clean architecture principles</description>
