@@ -1,0 +1,33 @@
+
+
+# Exclude target directory (except the built JAR file)
+target/*
+!target/*.jar
+
+# Maven build directories
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Node.js modules (if applicable)
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Version control directories
+.git/
+.gitignore
+
+# Operating system files
+.DS_Store
+Thumbs.db
